@@ -1,4 +1,4 @@
-#Econ 138 Problem Set 2: Replication of Selected Figures from Selected Papers
+# Econ 138 Problem Set 2: Replication of Selected Figures from Selected Papers
 
 Name: Raiza Mae O. Baluran
 
