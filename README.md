@@ -1,4 +1,10 @@
-# problem-set-2
+#Econ 138 Problem Set 2: Replication of Selected Figures from Selected Papers
+
+Name: Raiza Mae O. Baluran
+
+Student No.: 2021-08607
+
+Date: May 25th, 2025
 
 # No. 1: South Africa
 
